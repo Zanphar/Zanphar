@@ -1,10 +1,10 @@
 ### Hello there! 👋
 
-- I’m currently debating on updating some of my software that's on here along with reviving some old ones I've never released, and some that I've released before.
+- As of May, 2026, I have released four (PowerShell-based) scripts to the general public. I plan on releasing more scripts and actual programs (e.g. source code & compiled versions) to the general public.
 
-- Learning GitHub as I go along. It's something I had not used much of, so this profile is something new compared to a few things I've done on here before.
+- More content and information is coming in the future, please keep an eye out--something is bound to be interesting. :-)
 
-There's a few things kind of planned, that will be introduced sooner or later.
+There's a few things that are in planning stages, some are in progress and soon should be released to the public. Additionally, while it's a 2029 MacBook Pro, some content for macOS should also be released along with Linux software. :-)
 
 <!--
 **Zanphar/Zanphar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
