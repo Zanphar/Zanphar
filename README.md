@@ -4,7 +4,7 @@
 
 - More content and information is coming in the future, please keep an eye out--something is bound to be interesting. :-)
 
-There's a few things that are in planning stages, some are in progress and soon should be released to the public. Additionally, while it's a 2029 MacBook Pro, some content for macOS should also be released along with Linux software. :-)
+There's a few things that are in planning stages, some are in progress and soon should be released to the public. Additionally, while it's a 2019 MacBook Pro, some content for macOS should also be released along with Linux software. :-)
 
 <!--
 **Zanphar/Zanphar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
