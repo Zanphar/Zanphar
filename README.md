@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 - ⚡ November 12, 2026, GameTCP 4 (4th generation) has been published. This is a complete GUI now, with the option for CLI switches. It has been ported from Visual Basic .NET to C++ (MSVC or MingW for those who prefer).
-- 🔭 [Internet-Checker-Suite](Internet-Checker-Suite)November 15 2026, Internet Checker, which contains several things to assist in resetting and helping with configuring network connections on the system. I was having some issues with Battlefield 6 tonight and a few things I did (and didn't) do, this has done. **coming soon**
+- 🔭 November 15 2026, [Internet Checker](https://github.com/Zanphar/Internet-Checker-Suite), which contains several things to assist in resetting and helping with configuring network connections on the system. I was having some issues with Battlefield 6 tonight and a few things I did (and didn't) do, this has done. **coming soon**
 - ⚡ November 16, 2026, Zanphar's WinSuite, inspired by other popular tools on the internet will soon be released to the public, which may be as soon as within the next 12 hours.
 
 - More content and information is coming in the future, please keep an eye out--something is bound to be interesting. :-)
